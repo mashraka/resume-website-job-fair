@@ -6,3 +6,4 @@ Because I am broke. Printing paper through the libraries costs money that frankl
  
 ## Link & QR Code
 [Click Me!](https://mashraka.github.io/resume-website-job-fair/)
+![QR Code](https://github.com/mashraka/resume-website-job-fair/main/)
